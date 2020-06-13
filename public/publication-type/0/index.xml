@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Academic</title>
+    <link>/publication-type/0/</link>
+      <atom:link href="/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 13 Jun 2020 22:12:18 +0200</lastBuildDate>
+    <image>
+      <url>/img/logo_rh.png</url>
+      <title>0</title>
+      <link>/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Heller 2020</title>
+      <link>/publication/heller-2020/</link>
+      <pubDate>Sat, 13 Jun 2020 22:12:18 +0200</pubDate>
+      <guid>/publication/heller-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

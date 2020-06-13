@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. and Sun | rlbanerlh</title>
+    <link>/author/a.-and-sun/</link>
+      <atom:link href="/author/a.-and-sun/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. and Sun</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 R. A. Heller</copyright><lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo_rh.png</url>
+      <title>A. and Sun</title>
+      <link>/author/a.-and-sun/</link>
+    </image>
+    
+    <item>
+      <title>Zinc Concentration Dynamics Indicate Neurological Impairment Odds after Traumatic Spinal Cord Injury</title>
+      <link>/publication/heller-2020/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/heller-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
