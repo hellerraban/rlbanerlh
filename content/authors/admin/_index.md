@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Raban A. Heller
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,25 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Heidelberg University Hospital
+  url: "https://www.klinikum.uni-heidelberg.de/en/personen/raban-heller-4784"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational Modelling
+- Augmented/Artificial Intelligence
+- Trauma Surgery
+- Spinal Cord Injury
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: State Examination Human Medicine
+    institution: Universtiy of Heidelberg
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,18 +40,21 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: https://twitter.com/HellerRaban
+- icon: researchgate
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.researchgate.net/profile/Raban_Heller
+- icon: pubmed
+  icon_pack: ai
+  link: https://pubmed.ncbi.nlm.nih.gov/?term=%28%28%28%28Heller+RA%5BAuthor%5D%29+OR+%28Heller+R%5BAuthor%5D%29%29+AND+%28Heidelberg%5BAffiliation%5D%29%29+AND+%28%28%222016%2F01%2F01%22%5BDate+-+Publication%5D+%3A+%223000%22%5BDate+-+Publication%5D%29%29%29+AND+%28Haubruck%5BAuthor%5D+OR+Moghaddam%5BAuthor%5D+OR+Biglari%5BAuthor%5D+OR+Schomburg%5BAuthor%5D+OR+Back%5BAuthor%5D+OR+Willy%5BAuthor%5D%29&sort=
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/hellerraban
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: publons
+  icon_pack: ai
+  link: files/20200113_Publication_List_RH.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Physician with a strong background in applied research, development in computational biology, scientifiic computing, machine learning, and statistics. Passionate about investigating neuroimmunological processes in patients with acute traumatic spinal cord injury (TSCI) through multivariate network design and analysis.
