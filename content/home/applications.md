@@ -74,7 +74,7 @@ height = ""
   
   [[item]]
   title = "COVID-19-Dashboard"
-  content = "by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU), USA"
+  content = "by the CSSE at Johns Hopkins University, USA"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
