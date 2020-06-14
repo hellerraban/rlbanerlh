@@ -29,9 +29,13 @@ subtitle = ""
     name = "Spinal Cord Injury"
     tag = "Spinal Cord Injury"
 
-  # [[content.filter_button]]
-  #   name = "Pseudarthrosis"
-  #   tag = "Pseudarthrosis"
+  [[content.filter_button]]
+    name = "Pseudarthrosis"
+    tag = "Pseudarthrosis"
+ 
+  [[content.filter_button]]
+    name = "COVID-19"
+    tag = "COVID-19"
     
   # [[content.filter_button]]
   #   name = "Other"
