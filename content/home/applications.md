@@ -30,7 +30,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "RecherchR"
-  cta_url = "https://recherchr.org/"
+  cta_url = "http://134.209.247.211/shiny/recherchr/"
   cta_icon_pack = "fas"
   cta_icon = "book"
   
